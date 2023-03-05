@@ -13,7 +13,7 @@ font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,17;
+line-height: 1.17;
 color: #4D5AE5;
 letter-spacing: 0.03em;
 text-transform: uppercase
@@ -24,7 +24,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,17;
+line-height: 1.17;
 color: #2E2F42;
 }
 .navigation {
@@ -32,7 +32,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #2E2F42;
 letter-spacing: 0.02em;
 }
@@ -41,7 +41,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #2E2F42;
 letter-spacing: 0.02em;
 }
@@ -58,7 +58,7 @@ text-decoration: none;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 letter-spacing: 0.02em;
@@ -74,7 +74,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
-line-height: 60px;
+line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: #FFFFFF;
@@ -91,7 +91,7 @@ border-radius: 4px;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 color: #FFFFFF;
 letter-spacing: 0.04em
 }
@@ -110,7 +110,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
@@ -120,7 +120,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
@@ -129,7 +129,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 1,11;
+line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
@@ -138,13 +138,13 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #E7E9FC;
 }
 .footer-logo {
 font-weight: 800;
 font-size: 18px;
-line-height: 1,16;
+line-height: 1.16;
 color: #F4F4FD;
 }
 ul {
