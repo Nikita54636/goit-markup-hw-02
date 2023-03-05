@@ -1,5 +1,9 @@
+.list {
+    list-style: none;
+}
+
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", "sans-serif";
     font-style: normal;
     color:#434455;
     font-weight: 400;
