@@ -33,7 +33,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--body-text);
+  color: var(--more-dark);
 }
 .order-service {
   font-family: "Roboto", sans-serif;
@@ -41,6 +41,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: var(--links);
+  color: var(--primary-brand);
   cursor: pointer;
 }
